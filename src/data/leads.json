@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1",
+    "name": "Bruno Almeida",
+    "company": "PrimeTech",
+    "email": "bruno.almeida@primetech.com",
+    "source": "Social Media",
+    "score": 51,
+    "status": "new"
+  },
+  {
+    "id": "2",
+    "name": "Carlos Costa",
+    "company": "GlobalCorp",
+    "email": "carlos.costa@globalcorp.com",
+    "source": "Social Media",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "3",
+    "name": "Fernanda Martins",
+    "company": "GlobalCorp",
+    "email": "fernanda.martins@globalcorp.com",
+    "source": "Event",
+    "score": 97,
+    "status": "new"
+  },
+  {
+    "id": "4",
+    "name": "Camila Barbosa",
+    "company": "GlobalCorp",
+    "email": "camila.barbosa@globalcorp.com",
+    "source": "Email Campaign",
+    "score": 63,
+    "status": "new"
+  },
+  {
+    "id": "5",
+    "name": "Juliana Oliveira",
+    "company": "NextGen",
+    "email": "juliana.oliveira@nextgen.com",
+    "source": "Event",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "6",
+    "name": "Carlos Oliveira",
+    "company": "PrimeTech",
+    "email": "carlos.oliveira@primetech.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "new"
+  },
+  {
+    "id": "7",
+    "name": "Camila Ferreira",
+    "company": "PrimeTech",
+    "email": "camila.ferreira@primetech.com",
+    "source": "Referral",
+    "score": 94,
+    "status": "new"
+  },
+  {
+    "id": "8",
+    "name": "Rafael Costa",
+    "company": "TechSolutions",
+    "email": "rafael.costa@techsolutions.com",
+    "source": "Referral",
+    "score": 23,
+    "status": "new"
+  },
+  {
+    "id": "9",
+    "name": "Ana Santos",
+    "company": "AlphaGroup",
+    "email": "ana.santos@alphagroup.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "10",
+    "name": "Ana Costa",
+    "company": "AlphaGroup",
+    "email": "ana.costa@alphagroup.com",
+    "source": "Event",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "11",
+    "name": "Pedro Oliveira",
+    "company": "FutureVision",
+    "email": "pedro.oliveira@futurevision.com",
+    "source": "Cold Call",
+    "score": 55,
+    "status": "new"
+  },
+  {
+    "id": "12",
+    "name": "Ana Oliveira",
+    "company": "VisionX",
+    "email": "ana.oliveira@visionx.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "new"
+  },
+  {
+    "id": "13",
+    "name": "Mariana Pereira",
+    "company": "VisionX",
+    "email": "mariana.pereira@visionx.com",
+    "source": "Website",
+    "score": 28,
+    "status": "new"
+  },
+  {
+    "id": "14",
+    "name": "Juliana Oliveira",
+    "company": "NextGen",
+    "email": "juliana.oliveira@nextgen.com",
+    "source": "Email Campaign",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "15",
+    "name": "Juliana Ferreira",
+    "company": "VisionX",
+    "email": "juliana.ferreira@visionx.com",
+    "source": "Event",
+    "score": 20,
+    "status": "new"
+  },
+  {
+    "id": "16",
+    "name": "Pedro Barbosa",
+    "company": "Innovatech",
+    "email": "pedro.barbosa@innovatech.com",
+    "source": "Social Media",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "17",
+    "name": "Mariana Silva",
+    "company": "GlobalCorp",
+    "email": "mariana.silva@globalcorp.com",
+    "source": "Website",
+    "score": 97,
+    "status": "new"
+  },
+  {
+    "id": "18",
+    "name": "Fernanda Barbosa",
+    "company": "NextGen",
+    "email": "fernanda.barbosa@nextgen.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "19",
+    "name": "Carlos Ferreira",
+    "company": "FutureVision",
+    "email": "carlos.ferreira@futurevision.com",
+    "source": "Event",
+    "score": 62,
+    "status": "new"
+  },
+  {
+    "id": "20",
+    "name": "Camila Oliveira",
+    "company": "AlphaGroup",
+    "email": "camila.oliveira@alphagroup.com",
+    "source": "Email Campaign",
+    "score": 0,
+    "status": "new"
+  },
+  {
+    "id": "21",
+    "name": "Ana Barbosa",
+    "company": "AlphaGroup",
+    "email": "ana.barbosa@alphagroup.com",
+    "source": "Social Media",
+    "score": 92,
+    "status": "new"
+  },
+  {
+    "id": "22",
+    "name": "Juliana Barbosa",
+    "company": "AlphaGroup",
+    "email": "juliana.barbosa@alphagroup.com",
+    "source": "Referral",
+    "score": 49,
+    "status": "new"
+  },
+  {
+    "id": "23",
+    "name": "Pedro Silva",
+    "company": "NextGen",
+    "email": "pedro.silva@nextgen.com",
+    "source": "Social Media",
+    "score": 27,
+    "status": "new"
+  },
+  {
+    "id": "24",
+    "name": "Lucas Ramos",
+    "company": "NextGen",
+    "email": "lucas.ramos@nextgen.com",
+    "source": "Referral",
+    "score": 45,
+    "status": "new"
+  },
+  {
+    "id": "25",
+    "name": "Carlos Almeida",
+    "company": "AlphaGroup",
+    "email": "carlos.almeida@alphagroup.com",
+    "source": "Social Media",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "26",
+    "name": "Carlos Silva",
+    "company": "FutureVision",
+    "email": "carlos.silva@futurevision.com",
+    "source": "Social Media",
+    "score": 23,
+    "status": "new"
+  },
+  {
+    "id": "27",
+    "name": "Pedro Silva",
+    "company": "Innovatech",
+    "email": "pedro.silva@innovatech.com",
+    "source": "Cold Call",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "28",
+    "name": "Bruno Santos",
+    "company": "NextGen",
+    "email": "bruno.santos@nextgen.com",
+    "source": "Social Media",
+    "score": 64,
+    "status": "new"
+  },
+  {
+    "id": "29",
+    "name": "Pedro Oliveira",
+    "company": "GlobalCorp",
+    "email": "pedro.oliveira@globalcorp.com",
+    "source": "Referral",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "30",
+    "name": "Mariana Oliveira",
+    "company": "AlphaGroup",
+    "email": "mariana.oliveira@alphagroup.com",
+    "source": "Referral",
+    "score": 30,
+    "status": "new"
+  },
+  {
+    "id": "31",
+    "name": "Carlos Santos",
+    "company": "NextGen",
+    "email": "carlos.santos@nextgen.com",
+    "source": "Cold Call",
+    "score": 60,
+    "status": "new"
+  },
+  {
+    "id": "32",
+    "name": "Fernanda Santos",
+    "company": "Innovatech",
+    "email": "fernanda.santos@innovatech.com",
+    "source": "Website",
+    "score": 6,
+    "status": "new"
+  },
+  {
+    "id": "33",
+    "name": "Ana Santos",
+    "company": "VisionX",
+    "email": "ana.santos@visionx.com",
+    "source": "Email Campaign",
+    "score": 46,
+    "status": "new"
+  },
+  {
+    "id": "34",
+    "name": "Rafael Pereira",
+    "company": "GlobalCorp",
+    "email": "rafael.pereira@globalcorp.com",
+    "source": "Website",
+    "score": 75,
+    "status": "new"
+  },
+  {
+    "id": "35",
+    "name": "Carlos Barbosa",
+    "company": "NextGen",
+    "email": "carlos.barbosa@nextgen.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "36",
+    "name": "Juliana Santos",
+    "company": "GlobalCorp",
+    "email": "juliana.santos@globalcorp.com",
+    "source": "Website",
+    "score": 89,
+    "status": "new"
+  },
+  {
+    "id": "37",
+    "name": "Rafael Costa",
+    "company": "VisionX",
+    "email": "rafael.costa@visionx.com",
+    "source": "Email Campaign",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "38",
+    "name": "Rafael Ferreira",
+    "company": "AlphaGroup",
+    "email": "rafael.ferreira@alphagroup.com",
+    "source": "Website",
+    "score": 26,
+    "status": "new"
+  },
+  {
+    "id": "39",
+    "name": "Camila Ramos",
+    "company": "NextGen",
+    "email": "camila.ramos@nextgen.com",
+    "source": "Social Media",
+    "score": 44,
+    "status": "new"
+  },
+  {
+    "id": "40",
+    "name": "Carlos Ferreira",
+    "company": "NextGen",
+    "email": "carlos.ferreira@nextgen.com",
+    "source": "Cold Call",
+    "score": 16,
+    "status": "new"
+  },
+  {
+    "id": "41",
+    "name": "Fernanda Silva",
+    "company": "Innovatech",
+    "email": "fernanda.silva@innovatech.com",
+    "source": "Referral",
+    "score": 36,
+    "status": "new"
+  },
+  {
+    "id": "42",
+    "name": "Fernanda Silva",
+    "company": "TechSolutions",
+    "email": "fernanda.silva@techsolutions.com",
+    "source": "Website",
+    "score": 57,
+    "status": "new"
+  },
+  {
+    "id": "43",
+    "name": "Rafael Silva",
+    "company": "FutureVision",
+    "email": "rafael.silva@futurevision.com",
+    "source": "Cold Call",
+    "score": 2,
+    "status": "new"
+  },
+  {
+    "id": "44",
+    "name": "Ana Ferreira",
+    "company": "AlphaGroup",
+    "email": "ana.ferreira@alphagroup.com",
+    "source": "Email Campaign",
+    "score": 47,
+    "status": "new"
+  },
+  {
+    "id": "45",
+    "name": "Bruno Costa",
+    "company": "NextGen",
+    "email": "bruno.costa@nextgen.com",
+    "source": "Cold Call",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "46",
+    "name": "Fernanda Almeida",
+    "company": "PrimeTech",
+    "email": "fernanda.almeida@primetech.com",
+    "source": "Email Campaign",
+    "score": 31,
+    "status": "new"
+  },
+  {
+    "id": "47",
+    "name": "Lucas Ferreira",
+    "company": "GlobalCorp",
+    "email": "lucas.ferreira@globalcorp.com",
+    "source": "Website",
+    "score": 98,
+    "status": "new"
+  },
+  {
+    "id": "48",
+    "name": "Mariana Ramos",
+    "company": "VisionX",
+    "email": "mariana.ramos@visionx.com",
+    "source": "Cold Call",
+    "score": 2,
+    "status": "new"
+  },
+  {
+    "id": "49",
+    "name": "Juliana Santos",
+    "company": "VisionX",
+    "email": "juliana.santos@visionx.com",
+    "source": "Website",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "50",
+    "name": "Mariana Almeida",
+    "company": "TechSolutions",
+    "email": "mariana.almeida@techsolutions.com",
+    "source": "Email Campaign",
+    "score": 35,
+    "status": "new"
+  },
+  {
+    "id": "51",
+    "name": "Pedro Oliveira",
+    "company": "FutureVision",
+    "email": "pedro.oliveira@futurevision.com",
+    "source": "Cold Call",
+    "score": 95,
+    "status": "new"
+  },
+  {
+    "id": "52",
+    "name": "Bruno Silva",
+    "company": "NextGen",
+    "email": "bruno.silva@nextgen.com",
+    "source": "Website",
+    "score": 81,
+    "status": "new"
+  },
+  {
+    "id": "53",
+    "name": "Juliana Barbosa",
+    "company": "NextGen",
+    "email": "juliana.barbosa@nextgen.com",
+    "source": "Event",
+    "score": 92,
+    "status": "new"
+  },
+  {
+    "id": "54",
+    "name": "Rafael Ferreira",
+    "company": "AlphaGroup",
+    "email": "rafael.ferreira@alphagroup.com",
+    "source": "Referral",
+    "score": 4,
+    "status": "new"
+  },
+  {
+    "id": "55",
+    "name": "Camila Barbosa",
+    "company": "PrimeTech",
+    "email": "camila.barbosa@primetech.com",
+    "source": "Cold Call",
+    "score": 99,
+    "status": "new"
+  },
+  {
+    "id": "56",
+    "name": "Juliana Martins",
+    "company": "NextGen",
+    "email": "juliana.martins@nextgen.com",
+    "source": "Email Campaign",
+    "score": 15,
+    "status": "new"
+  },
+  {
+    "id": "57",
+    "name": "Lucas Pereira",
+    "company": "GlobalCorp",
+    "email": "lucas.pereira@globalcorp.com",
+    "source": "Event",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "58",
+    "name": "Camila Ferreira",
+    "company": "TechSolutions",
+    "email": "camila.ferreira@techsolutions.com",
+    "source": "Website",
+    "score": 15,
+    "status": "new"
+  },
+  {
+    "id": "59",
+    "name": "Carlos Pereira",
+    "company": "AlphaGroup",
+    "email": "carlos.pereira@alphagroup.com",
+    "source": "Email Campaign",
+    "score": 28,
+    "status": "new"
+  },
+  {
+    "id": "60",
+    "name": "Juliana Almeida",
+    "company": "FutureVision",
+    "email": "juliana.almeida@futurevision.com",
+    "source": "Website",
+    "score": 30,
+    "status": "new"
+  },
+  {
+    "id": "61",
+    "name": "Mariana Almeida",
+    "company": "FutureVision",
+    "email": "mariana.almeida@futurevision.com",
+    "source": "Email Campaign",
+    "score": 54,
+    "status": "new"
+  },
+  {
+    "id": "62",
+    "name": "Juliana Martins",
+    "company": "FutureVision",
+    "email": "juliana.martins@futurevision.com",
+    "source": "Social Media",
+    "score": 96,
+    "status": "new"
+  },
+  {
+    "id": "63",
+    "name": "Pedro Ferreira",
+    "company": "Innovatech",
+    "email": "pedro.ferreira@innovatech.com",
+    "source": "Website",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": "64",
+    "name": "Juliana Martins",
+    "company": "GlobalCorp",
+    "email": "juliana.martins@globalcorp.com",
+    "source": "Cold Call",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "65",
+    "name": "Rafael Martins",
+    "company": "GlobalCorp",
+    "email": "rafael.martins@globalcorp.com",
+    "source": "Event",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "66",
+    "name": "Fernanda Barbosa",
+    "company": "TechSolutions",
+    "email": "fernanda.barbosa@techsolutions.com",
+    "source": "Cold Call",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "67",
+    "name": "Mariana Ferreira",
+    "company": "TechSolutions",
+    "email": "mariana.ferreira@techsolutions.com",
+    "source": "Social Media",
+    "score": 26,
+    "status": "new"
+  },
+  {
+    "id": "68",
+    "name": "Pedro Almeida",
+    "company": "PrimeTech",
+    "email": "pedro.almeida@primetech.com",
+    "source": "Event",
+    "score": 34,
+    "status": "new"
+  },
+  {
+    "id": "69",
+    "name": "Carlos Costa",
+    "company": "AlphaGroup",
+    "email": "carlos.costa@alphagroup.com",
+    "source": "Event",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "70",
+    "name": "Juliana Martins",
+    "company": "PrimeTech",
+    "email": "juliana.martins@primetech.com",
+    "source": "Event",
+    "score": 53,
+    "status": "new"
+  },
+  {
+    "id": "71",
+    "name": "Juliana Pereira",
+    "company": "AlphaGroup",
+    "email": "juliana.pereira@alphagroup.com",
+    "source": "Website",
+    "score": 46,
+    "status": "new"
+  },
+  {
+    "id": "72",
+    "name": "Juliana Oliveira",
+    "company": "AlphaGroup",
+    "email": "juliana.oliveira@alphagroup.com",
+    "source": "Referral",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "73",
+    "name": "Bruno Santos",
+    "company": "TechSolutions",
+    "email": "bruno.santos@techsolutions.com",
+    "source": "Email Campaign",
+    "score": 33,
+    "status": "new"
+  },
+  {
+    "id": "74",
+    "name": "Camila Ramos",
+    "company": "Innovatech",
+    "email": "camila.ramos@innovatech.com",
+    "source": "Social Media",
+    "score": 26,
+    "status": "new"
+  },
+  {
+    "id": "75",
+    "name": "Camila Oliveira",
+    "company": "Innovatech",
+    "email": "camila.oliveira@innovatech.com",
+    "source": "Referral",
+    "score": 43,
+    "status": "new"
+  },
+  {
+    "id": "76",
+    "name": "Ana Barbosa",
+    "company": "VisionX",
+    "email": "ana.barbosa@visionx.com",
+    "source": "Email Campaign",
+    "score": 58,
+    "status": "new"
+  },
+  {
+    "id": "77",
+    "name": "Bruno Pereira",
+    "company": "VisionX",
+    "email": "bruno.pereira@visionx.com",
+    "source": "Social Media",
+    "score": 20,
+    "status": "new"
+  },
+  {
+    "id": "78",
+    "name": "Rafael Santos",
+    "company": "FutureVision",
+    "email": "rafael.santos@futurevision.com",
+    "source": "Social Media",
+    "score": 7,
+    "status": "new"
+  },
+  {
+    "id": "79",
+    "name": "Rafael Ferreira",
+    "company": "PrimeTech",
+    "email": "rafael.ferreira@primetech.com",
+    "source": "Cold Call",
+    "score": 57,
+    "status": "new"
+  },
+  {
+    "id": "80",
+    "name": "Carlos Oliveira",
+    "company": "FutureVision",
+    "email": "carlos.oliveira@futurevision.com",
+    "source": "Cold Call",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "81",
+    "name": "Mariana Martins",
+    "company": "NextGen",
+    "email": "mariana.martins@nextgen.com",
+    "source": "Cold Call",
+    "score": 54,
+    "status": "new"
+  },
+  {
+    "id": "82",
+    "name": "Mariana Oliveira",
+    "company": "NextGen",
+    "email": "mariana.oliveira@nextgen.com",
+    "source": "Event",
+    "score": 13,
+    "status": "new"
+  },
+  {
+    "id": "83",
+    "name": "Rafael Silva",
+    "company": "Innovatech",
+    "email": "rafael.silva@innovatech.com",
+    "source": "Referral",
+    "score": 33,
+    "status": "new"
+  },
+  {
+    "id": "84",
+    "name": "Ana Costa",
+    "company": "Innovatech",
+    "email": "ana.costa@innovatech.com",
+    "source": "Event",
+    "score": 28,
+    "status": "new"
+  },
+  {
+    "id": "85",
+    "name": "Camila Martins",
+    "company": "PrimeTech",
+    "email": "camila.martins@primetech.com",
+    "source": "Referral",
+    "score": 1,
+    "status": "new"
+  },
+  {
+    "id": "86",
+    "name": "Pedro Silva",
+    "company": "NextGen",
+    "email": "pedro.silva@nextgen.com",
+    "source": "Event",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "87",
+    "name": "Ana Ramos",
+    "company": "PrimeTech",
+    "email": "ana.ramos@primetech.com",
+    "source": "Referral",
+    "score": 34,
+    "status": "new"
+  },
+  {
+    "id": "88",
+    "name": "Camila Barbosa",
+    "company": "AlphaGroup",
+    "email": "camila.barbosa@alphagroup.com",
+    "source": "Website",
+    "score": 15,
+    "status": "new"
+  },
+  {
+    "id": "89",
+    "name": "Camila Silva",
+    "company": "TechSolutions",
+    "email": "camila.silva@techsolutions.com",
+    "source": "Website",
+    "score": 99,
+    "status": "new"
+  },
+  {
+    "id": "90",
+    "name": "Lucas Ramos",
+    "company": "TechSolutions",
+    "email": "lucas.ramos@techsolutions.com",
+    "source": "Event",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "91",
+    "name": "Rafael Almeida",
+    "company": "AlphaGroup",
+    "email": "rafael.almeida@alphagroup.com",
+    "source": "Email Campaign",
+    "score": 18,
+    "status": "new"
+  },
+  {
+    "id": "92",
+    "name": "Lucas Silva",
+    "company": "GlobalCorp",
+    "email": "lucas.silva@globalcorp.com",
+    "source": "Event",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "93",
+    "name": "Mariana Barbosa",
+    "company": "PrimeTech",
+    "email": "mariana.barbosa@primetech.com",
+    "source": "Email Campaign",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "94",
+    "name": "Fernanda Pereira",
+    "company": "FutureVision",
+    "email": "fernanda.pereira@futurevision.com",
+    "source": "Cold Call",
+    "score": 39,
+    "status": "new"
+  },
+  {
+    "id": "95",
+    "name": "Ana Barbosa",
+    "company": "FutureVision",
+    "email": "ana.barbosa@futurevision.com",
+    "source": "Referral",
+    "score": 99,
+    "status": "new"
+  },
+  {
+    "id": "96",
+    "name": "Fernanda Almeida",
+    "company": "GlobalCorp",
+    "email": "fernanda.almeida@globalcorp.com",
+    "source": "Website",
+    "score": 6,
+    "status": "new"
+  },
+  {
+    "id": "97",
+    "name": "Rafael Barbosa",
+    "company": "GlobalCorp",
+    "email": "rafael.barbosa@globalcorp.com",
+    "source": "Website",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "98",
+    "name": "Mariana Barbosa",
+    "company": "GlobalCorp",
+    "email": "mariana.barbosa@globalcorp.com",
+    "source": "Referral",
+    "score": 15,
+    "status": "new"
+  },
+  {
+    "id": "99",
+    "name": "Rafael Almeida",
+    "company": "TechSolutions",
+    "email": "rafael.almeida@techsolutions.com",
+    "source": "Email Campaign",
+    "score": 48,
+    "status": "new"
+  },
+  {
+    "id": "100",
+    "name": "Rafael Barbosa",
+    "company": "PrimeTech",
+    "email": "rafael.barbosa@primetech.com",
+    "source": "Cold Call",
+    "score": 3,
+    "status": "new"
+  }
+]
