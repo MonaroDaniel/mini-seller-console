@@ -1,69 +1,28 @@
-# React + TypeScript + Vite
+# Mini Seller Console
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight React + Tailwind application designed to **triage Leads and convert them into Opportunities**.  
+The project focuses on clean architecture, modern UI components, and form handling with validation.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Lead Management** – Triage and organize incoming leads.  
+- **Opportunity Conversion** – Convert qualified leads into opportunities with ease.  
+- **Form Handling** – Built with [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) for validation.  
+- **Modern UI** – Powered by [shadcn/ui](https://ui.shadcn.com/), [Radix UI](https://www.radix-ui.com/) primitives, [Lucide React](https://lucide.dev/) icons, and [Sonner](https://sonner.emilkowal.ski/) for notifications.  
+- **Customizable Themes** – Dark/Light mode support using [next-themes](https://github.com/pacocoursey/next-themes).  
+- **State Management** – Uses React Context API (`useContext`) for shared state.  
+- **Data Table** – Built with [TanStack Table](https://tanstack.com/table) for advanced filtering, sorting, and pagination.  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🛠️ Tech Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- **Framework:** [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)  
+- **Styling:** [TailwindCSS](https://tailwindcss.com/) + [tailwind-merge](https://tailwind-merge.org/) + `tw-animate-css`  
+- **UI Components:** [shadcn/ui](https://ui.shadcn.com/), Radix UI, Lucide Icons, Sonner  
+- **Forms & Validation:** React Hook Form + Zod  
+- **Table:** TanStack React Table  
+- **Theming:** next-themes  
+- **State Management:** React Context API 
