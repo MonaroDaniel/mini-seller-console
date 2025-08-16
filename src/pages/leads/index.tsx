@@ -1,4 +1,4 @@
-import { useContext, useEffect, useId, useMemo, useRef, useState } from "react"
+import { useContext, useId, useMemo, useRef, useState } from "react"
 import {
 	type ColumnDef,
 	type ColumnFiltersState,
@@ -211,17 +211,6 @@ export function Leads() {
 			columnVisibility,
 		},
 	})
-
-	// Get unique status values
-	const uniqueStatusValues = useMemo(() => {
-		const statusColumn = table.getColumn("status")
-
-		if (!statusColumn) return []
-
-		const values = Array.from(statusColumn.getFacetedUniqueValues().keys())
-
-		return values.sort()
-	}, [table.getColumn("status")?.getFacetedUniqueValues()])
 
 	// Get counts for each status
 	const statusCounts = useMemo(() => {
